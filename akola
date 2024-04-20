@@ -2,3 +2,5 @@ writing codes for mars project
 select * from mars table 
 input @reportingdate
 Frequency : Quarterly
+transaction inputs : Bank rate
+bucketting percentage for each product
